@@ -32,8 +32,7 @@
 
   Diante disso, deverá ser desenvolvido as seguintes funções:
  ```javascript
-  function adicionarAluno(nome:string){
-  
+  function adicionarAluno(nome:string){  
   /*Essa função irá receber uma *string* que é nome do aluno a ser criado. 
   E seguindo o modelo de aluno, o mesmo deverá ser inserido na lista de alunos.
   A função deve devolver um feedback de sucesso, caso o aluno seja inserido corretamente.*/
